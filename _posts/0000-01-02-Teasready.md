@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Tea's Ready Games
 Use the left arrow to go back!
